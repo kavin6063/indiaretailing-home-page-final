@@ -38,7 +38,7 @@ const HeaderCards = () => {
           />
 
           {/* Text Section */}
-          <div className="flex flex-col justify-center  h-1/3 md:w-3/4 p-3">
+          <div className="flex flex-col justify-center  md:w-3/4 p-4">
             <h5 className=" text-lg font-bold text-red-700 dark:text-white ">
               {item.title}
             </h5>
