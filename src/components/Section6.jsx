@@ -107,7 +107,7 @@ const Section6 = () => {
                   <a
                     key={index}
                     href="#"
-                    className="flex flex-col items-center w-[450px] bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+                    className="flex flex-col items-center md:w-[450px] w-[300px] mx-auto bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
                   >
                     <img
                       className="object-cover  rounded-lg  h-full  md:w-48  md:rounded-lg"
@@ -144,7 +144,7 @@ const Section6 = () => {
                   <a
                     key={index}
                     href="#"
-                    className="flex flex-col items-center w-[450px] bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
+                    className="flex flex-col items-center md:w-[450px] w-[300px] mx-auto bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700"
                   >
                     <img
                       className="object-cover  rounded-lg  h-full  md:w-48  md:rounded-lg"
